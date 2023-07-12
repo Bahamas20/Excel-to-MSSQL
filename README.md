@@ -1,4 +1,4 @@
-# Excel-to-MSSQL-
+# Excel-to-MSSQL
 CLI program to transfer data between Excel and MSSQL (vice versa)
 
 Sample Excel sheet inside (simple example)
